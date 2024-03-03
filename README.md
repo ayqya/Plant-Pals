@@ -14,5 +14,8 @@ A chatbot that gives users information on plant care, based on user prompting.
 | [Shaun (@shaunguimond)](https://github.com/shaunguimond) |
 
 
+# How to Run the Program
 
-
+1. to run the program, you must download the repository.
+2. Then make sure to run `npm install`
+3. input command `npm run dev`
