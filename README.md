@@ -1,5 +1,17 @@
-# Personal Calendar Assistant
-### In Collaboration with UBC Cloud Innovation Centre GenAI 
-### AWS Hackathon 2024
+# Plant Pals
+### An AI Assistant to Help You Care For Your Plants
+### In Collaboration with UBC Cloud Innovation Centre  
+### AWS Hackathon 2024 on GenAI
 
-An interactive calendar chatbot that assists with prioritizing and scheduling events/tasks.
+A chatbot that gives users information on plant care, based on user prompting. 
+
+| Our Team from the Bachelor of Computer Science (BCS)|
+| --- |
+| [Alaina (@Alaina-gl)](https://github.com/Alaina-gl) |
+| [Annie (@ayqya)](https://github.com/ayqya/) |
+| [Kayla (@k-bolduc)](https://github.com/k-bolduc) |
+| [Shaun (@shaunguimond)](https://github.com/shaunguimond) |
+
+
+
+
