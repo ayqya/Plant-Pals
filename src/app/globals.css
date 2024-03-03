@@ -32,3 +32,10 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.bg-image {
+  background-image: url("https://wp.shaunguimond.com/wp-content/uploads/2024/03/faded_image.png");
+  background-size: cover;
+  background-position: center;
+}
