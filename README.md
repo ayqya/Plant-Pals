@@ -19,3 +19,10 @@ A chatbot that gives users information on plant care, based on user prompting.
 1. to run the program, you must download the repository.
 2. Then make sure to run `npm install`
 3. input command `npm run dev`
+
+# Example Prompts
+
+![Screenshot_2-3-2024_194427_localhost](https://github.com/ayqya/Plant-Pals/assets/22579049/31d4df6a-aa13-4be4-8350-ee5a456db0da)
+![Screenshot_2-3-2024_194349_localhost](https://github.com/ayqya/Plant-Pals/assets/22579049/6de4d03a-c287-42b0-b3c4-059fc1d5334d)
+![Screenshot_2-3-2024_194316_localhost](https://github.com/ayqya/Plant-Pals/assets/22579049/f5fa3f8f-912a-4cb5-80d6-74d961d630ed)
+![Screenshot_2-3-2024_194224_localhost](https://github.com/ayqya/Plant-Pals/assets/22579049/b8efe7c7-618a-495a-8e23-fcb13bc46217)
