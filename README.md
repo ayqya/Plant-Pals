@@ -1,7 +1,8 @@
 # Plant Pals
+<img align="right" width="400" alt="Potted plant logo" src="https://github.com/ayqya/Plant-Pals/assets/136777664/c6834c0b-4893-4118-afa0-8588e455e220">
+
 ### An AI Assistant to Help You Care For Your Plants
-### In Collaboration with UBC Cloud Innovation Centre  
-### AWS Hackathon 2024 on GenAI
+<p>In Collaboration with UBC Cloud Innovation Centre and Amazon | AWS Hackathon 2024 on GenAI</p>
 
 A chatbot that gives users information on plant care, based on user prompting. 
 
